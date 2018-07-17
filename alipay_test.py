@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# pip install pycryptodome
+# pip install pycrypto
 __author__ = 'matrix'
 
 from datetime import datetime
